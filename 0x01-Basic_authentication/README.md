@@ -25,12 +25,12 @@ Resources
 -   [Base64 in Python](https://docs.python.org/3.7/library/base64.html "Base64 in Python")
 -   [HTTP header Authorization](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Authorization "HTTP header Authorization")
 -   [Flask](https://palletsprojects.com/p/flask/ "Flask")
--   [Base64 - concept](https://alx-intranet.hbtn.io/rltoken/br6Rp4iMaOce6EAC-JQnOw "Base64 - concept")
+-   [Base64 - concept](https://en.wikipedia.org/wiki/Base64 "Base64 - concept")
 
 Learning Objectives
 -------------------
 
-At the end of this project, you are expected to be able to [explain to anyone](https://alx-intranet.hbtn.io/rltoken/swiIZazfz7mspY1vjuy_Zg "explain to anyone"), **without the help of Google**:
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/ "explain to anyone"), **without the help of Google**:
 
 ### General
 
