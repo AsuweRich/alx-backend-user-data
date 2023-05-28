@@ -12,7 +12,7 @@ Background Context
 
 In this project, you will learn what the authentication process means and implement a **Basic Authentication** on a simple API.
 
-In the industry, you should **not** implement your own Basic authentication system and use a module or framework that doing it for you (like in Python-Flask: [Flask-HTTPAuth](https://alx-intranet.hbtn.io/rltoken/rpsPy0M3_FJuCLGNPUbmvg "Flask-HTTPAuth")). Here, for the learning purpose, we will walk through each step of this mechanism to understand it by doing.
+In the industry, you should **not** implement your own Basic authentication system and use a module or framework that doing it for you (like in Python-Flask: [Flask-HTTPAuth](https://flask-httpauth.readthedocs.io/en/latest/ "Flask-HTTPAuth")). Here, for the learning purpose, we will walk through each step of this mechanism to understand it by doing.
 
 ![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/5/6ccb363443a8f301bc2bc38d7a08e9650117de7c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220726%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220726T221959Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=18755348be0728564d9be216af879f27bca940e7734b01f4be19a329ef1a2bf8)
 
@@ -21,10 +21,10 @@ Resources
 
 **Read or watch**:
 
--   [REST API Authentication Mechanisms](https://alx-intranet.hbtn.io/rltoken/ssg5umgsMk5jKM8WRHk2Ug "REST API Authentication Mechanisms")
--   [Base64 in Python](https://alx-intranet.hbtn.io/rltoken/RpaPRyKx1rdHgRSUyuPfeg "Base64 in Python")
--   [HTTP header Authorization](https://alx-intranet.hbtn.io/rltoken/WlARq8tQPUGQq5VphLKM4w "HTTP header Authorization")
--   [Flask](https://alx-intranet.hbtn.io/rltoken/HG5WXgSja5kMa29fbMd9Aw "Flask")
+-   [REST API Authentication Mechanisms](https://www.youtube.com/watch?v=501dpx2IjGY "REST API Authentication Mechanisms")
+-   [Base64 in Python](https://docs.python.org/3.7/library/base64.html "Base64 in Python")
+-   [HTTP header Authorization](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Authorization "HTTP header Authorization")
+-   [Flask](https://palletsprojects.com/p/flask/ "Flask")
 -   [Base64 - concept](https://alx-intranet.hbtn.io/rltoken/br6Rp4iMaOce6EAC-JQnOw "Base64 - concept")
 
 Learning Objectives
